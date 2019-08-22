@@ -1,0 +1,14 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1507288619.000069"
+    }, 
+    {
+        "subtype": "channel_leave", 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1507288688.000081"
+    }
+]

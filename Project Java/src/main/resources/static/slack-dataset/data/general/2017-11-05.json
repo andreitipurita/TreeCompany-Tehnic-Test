@@ -1,0 +1,29 @@
+[
+    {
+        "reactions": [
+            {
+                "count": 2, 
+                "name": "+1", 
+                "users": [
+                    "U7G52NFN2", 
+                    "U7BMUSDTJ"
+                ]
+            }, 
+            {
+                "count": 1, 
+                "name": "wink", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1509911175.000070"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1509953743.000042"
+    }
+]

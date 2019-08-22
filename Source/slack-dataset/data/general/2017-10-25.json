@@ -1,0 +1,13 @@
+[
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1508956802.000685"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1508966906.000109"
+    }
+]

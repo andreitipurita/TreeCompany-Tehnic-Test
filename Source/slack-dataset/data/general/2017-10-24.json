@@ -1,0 +1,80 @@
+[
+    {
+        "username": "minna.ainoa", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1508835874.000038", 
+        "display_as_bot": false, 
+        "user": "U7CC9DP98", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508835955.000408"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508835994.000382"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1508836148.000335"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508836181.000145"
+    }, 
+    {
+        "edited": {
+            "user": "U7CC9DP98", 
+            "ts": "1508910243.000000"
+        }, 
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1508910216.000115"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1508910365.000199"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1508911006.000051"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508911047.000019"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508911114.000061"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1508911381.000080"
+    }, 
+    {
+        "edited": {
+            "user": "U7BS22HB3", 
+            "ts": "1508912788.000000"
+        }, 
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1508912774.000096"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1508914051.000103"
+    }
+]

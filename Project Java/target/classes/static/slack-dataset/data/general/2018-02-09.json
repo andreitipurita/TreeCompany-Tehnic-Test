@@ -1,0 +1,20 @@
+[
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518192699.000330", 
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1518193077.000000"
+        }
+    }
+]

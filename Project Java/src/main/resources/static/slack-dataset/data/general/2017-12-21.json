@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513845150.000272"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513845173.000386"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513845287.000252"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513845357.000027"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513845493.000119"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1513845766.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513845743.000161"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1513845968.000375"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513847040.000478"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513847127.000207"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513847170.000164"
+    }, 
+    {
+        "username": "adina.renner", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1513847220.000361", 
+        "display_as_bot": false, 
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513848316.000071"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513848415.000128"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513848456.000252"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513853366.000051"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513853399.000166"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1513876237.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513876214.000164"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513876215.000234"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513880078.000083"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513880093.000280"
+    }, 
+    {
+        "comment": {
+            "comment": "yes!!!", 
+            "created": 1513880472, 
+            "timestamp": 1513880472, 
+            "is_intro": false, 
+            "user": "U7G52NFN2", 
+            "id": "Fc8HF06MFS"
+        }, 
+        "subtype": "file_comment", 
+        "is_intro": false, 
+        "type": "message", 
+        "ts": "1513880472.000580"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1513880631.000651"
+    }
+]

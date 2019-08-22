@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508401285.000402"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508401357.000306"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508401401.000052"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1508402334.000304"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1508402552.000255"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508403027.000312"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 3, 
+                "name": "+1", 
+                "users": [
+                    "U7G52NFN2", 
+                    "U7BS22HB3", 
+                    "U7BMUSDTJ"
+                ]
+            }, 
+            {
+                "count": 1, 
+                "name": "100", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508441885.000635", 
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1508441970.000000"
+        }
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1508442346.000093"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "heart", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508443710.000091"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508444606.000136"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1508445396.000039"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508446227.000528"
+    }
+]

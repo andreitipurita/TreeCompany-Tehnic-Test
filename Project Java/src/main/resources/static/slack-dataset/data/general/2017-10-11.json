@@ -1,0 +1,27 @@
+[
+    {
+        "username": "heini.kekki", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1507711987.000007", 
+        "display_as_bot": false, 
+        "user": "U7BS22HB3", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507724930.000155"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1507726850.000598"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1507748269.000385"
+    }
+]

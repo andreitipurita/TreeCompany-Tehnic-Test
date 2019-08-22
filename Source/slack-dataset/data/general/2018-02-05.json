@@ -1,0 +1,58 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1517853322.000338"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859445.000215"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859486.000145"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859653.000516"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517859661.000587"
+    }, 
+    {
+        "username": "pei-yu.lin", 
+        "subtype": "file_share", 
+        "upload": false, 
+        "ts": "1517859663.000713", 
+        "display_as_bot": false, 
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517859677.000281"
+    }, 
+    {
+        "username": "pei-yu.lin", 
+        "subtype": "file_share", 
+        "upload": false, 
+        "ts": "1517859677.000577", 
+        "display_as_bot": false, 
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1517897290.000064"
+    }
+]

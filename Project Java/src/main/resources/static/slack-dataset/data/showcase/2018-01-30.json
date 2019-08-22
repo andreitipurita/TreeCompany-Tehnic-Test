@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517377536.000057"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1517378627.000077"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1517378701.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517378694.000289"
+    }, 
+    {
+        "username": "qin.yang", 
+        "subtype": "file_share", 
+        "upload_reply_to": "85B10047-FCF6-4B5A-BA6D-6A04850042DB", 
+        "ts": "1517378701.000094", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7BMUSDTJ", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517378736.000127"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1517378957.000234"
+    }
+]

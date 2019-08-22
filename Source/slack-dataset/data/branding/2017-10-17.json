@@ -1,0 +1,63 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508234417.000251"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7DET4PSP", 
+        "ts": "1508234418.000061"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7D1PDTKQ", 
+        "ts": "1508234418.000093"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508234418.000129"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7CC9DP98", 
+        "ts": "1508234418.000164"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7G52NFN2", 
+        "ts": "1508234418.000198"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508247725.000437"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508247828.000659"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508247889.000254"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1508262809.000039"
+    }
+]

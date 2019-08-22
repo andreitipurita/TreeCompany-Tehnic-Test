@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1508241266.000128"
+    }, 
+    {
+        "thread_ts": "1508247517.000156", 
+        "ts": "1508247517.000156", 
+        "unread_count": 3, 
+        "reply_count": 3, 
+        "user": "U7C2YBD7D", 
+        "replies": [
+            {
+                "user": "U7G52NFN2", 
+                "ts": "1508707265.000028"
+            }, 
+            {
+                "user": "U7C2YBD7D", 
+                "ts": "1511891425.000855"
+            }, 
+            {
+                "user": "U7C2YBD7D", 
+                "ts": "1511891432.000384"
+            }
+        ], 
+        "type": "message"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1508247632.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508247596.000095"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35MB0RS7", 
+        "ts": "1508250281.000296"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508251883.000262"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508251939.000379"
+    }
+]

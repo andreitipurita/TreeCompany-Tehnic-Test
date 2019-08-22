@@ -1,0 +1,21 @@
+[
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7C2YBD7D"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512370974.000163"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1512371477.000025"
+    }
+]

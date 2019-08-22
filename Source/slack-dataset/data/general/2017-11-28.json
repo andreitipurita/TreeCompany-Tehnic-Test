@@ -1,0 +1,23 @@
+[
+    {
+        "parent_user_id": "U7CC9DP98", 
+        "thread_ts": "1511851449.000093", 
+        "type": "message", 
+        "ts": "1511891347.000207", 
+        "user": "U7CC9DP98"
+    }, 
+    {
+        "parent_user_id": "U7C2YBD7D", 
+        "thread_ts": "1508247517.000156", 
+        "type": "message", 
+        "ts": "1511891425.000855", 
+        "user": "U7C2YBD7D"
+    }, 
+    {
+        "parent_user_id": "U7C2YBD7D", 
+        "thread_ts": "1508247517.000156", 
+        "type": "message", 
+        "ts": "1511891432.000384", 
+        "user": "U7C2YBD7D"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "username": "alessdelnero", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1511520667.000157", 
+        "display_as_bot": false, 
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1511520680.000350"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1511520980.000188"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1511521703.000335"
+    }
+]

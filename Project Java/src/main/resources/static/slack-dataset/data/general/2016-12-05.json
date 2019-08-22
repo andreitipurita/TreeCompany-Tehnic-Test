@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message", 
+        "user": "U35MB0RS7", 
+        "ts": "1480949974.000002"
+    }, 
+    {
+        "username": "juusokoponen", 
+        "subtype": "file_share", 
+        "upload": false, 
+        "ts": "1480949987.000004", 
+        "display_as_bot": false, 
+        "user": "U35MB0RS7", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U35MB0RS7", 
+        "ts": "1480950025.000005"
+    }
+]

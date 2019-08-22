@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515670145.000010"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1515670457.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515670341.000075"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1515670530.000437"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515670581.000180"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515671199.000031"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515671612.000155"
+    }, 
+    {
+        "username": "adina.renner", 
+        "subtype": "file_share", 
+        "upload": false, 
+        "ts": "1515671615.000103", 
+        "display_as_bot": false, 
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515671644.000220"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1515672018.000041"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1515672957.000365"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1515697047.000170"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1515697048.000371"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1515702378.000350"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515706815.000459"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515706824.000492"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515706928.000487"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1515709349.000018"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1515709355.000070"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512308563.000001"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1512310467.000055"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512311428.000075"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512311445.000029"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1512311486.000098"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512311831.000029"
+    }, 
+    {
+        "edited": {
+            "user": "U7G52NFN2", 
+            "ts": "1512312234.000000"
+        }, 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512312200.000073"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512312213.000029"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512312260.000022"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512312674.000019"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512312761.000080"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512312788.000008"
+    }, 
+    {
+        "username": "alessdelnero", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1512313489.000041", 
+        "display_as_bot": false, 
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512313527.000058"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512313618.000018"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512313666.000043"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512313671.000012"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512313728.000035"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512313861.000007"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512313924.000062"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512313931.000030"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512313937.000020"
+    }, 
+    {
+        "username": "adina.renner", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1512314154.000077", 
+        "display_as_bot": false, 
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512314164.000052"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512314238.000047"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512314282.000059"
+    }, 
+    {
+        "username": "alessdelnero", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1512314639.000048", 
+        "display_as_bot": false, 
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "alessdelnero", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1512314645.000005", 
+        "display_as_bot": false, 
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1512318113.000052"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512318526.000089"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512318538.000063"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512318539.000113"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512318555.000076"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512318575.000072"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512318594.000030"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512326330.000014"
+    }
+]

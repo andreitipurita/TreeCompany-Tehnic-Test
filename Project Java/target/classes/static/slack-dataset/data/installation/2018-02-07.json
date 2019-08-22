@@ -1,0 +1,106 @@
+[
+    {
+        "username": "lee.cheongun", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1518002482.000041", 
+        "display_as_bot": false, 
+        "user": "U9439D7V2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "lee.cheongun", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1518002486.000080", 
+        "display_as_bot": false, 
+        "user": "U9439D7V2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518002502.000362"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518002511.000163"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518002530.000235"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1518008915.000387"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518009490.000201"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1518009607.000094"
+    }, 
+    {
+        "client_msg_id": "CF81ECA2-477E-4B76-A3DB-255FD41503D3", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1518011309.000349"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518011323.000221"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518011359.000614"
+    }, 
+    {
+        "client_msg_id": "4F15C963-4856-4C47-A5D3-A29D20674DE5", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1518011380.000131"
+    }, 
+    {
+        "client_msg_id": "E3D1C289-7988-43F5-AB22-FF2463D0F264", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1518011403.000438"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518011411.000566"
+    }, 
+    {
+        "client_msg_id": "06C476D8-DAC7-4D20-ADD5-843A81DFB353", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1518011568.000145"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1518011921.000095"
+    }, 
+    {
+        "client_msg_id": "5C01E74A-1CB0-43D6-A6D2-56D9E86D0170", 
+        "edited": {
+            "user": "U7G52NFN2", 
+            "ts": "1518011959.000000"
+        }, 
+        "type": "message", 
+        "ts": "1518011946.000125", 
+        "user": "U7G52NFN2"
+    }
+]

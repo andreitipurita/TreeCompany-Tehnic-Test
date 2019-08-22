@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1518602750.000471"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1518602923.000361"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1518603023.000216"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1518603043.000105"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1518603061.000331"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1518603129.000484"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1518603402.000256"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "ok_hand", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1518603486.000455"
+    }
+]

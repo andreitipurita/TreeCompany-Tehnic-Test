@@ -1,0 +1,87 @@
+[
+    {
+        "username": "alessdelnero", 
+        "subtype": "file_share", 
+        "upload_reply_to": "E0982137-0345-42BD-B9B5-923AC43E892F", 
+        "ts": "1516869497.000135", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516882525.000021"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516892388.000258"
+    }, 
+    {
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "ts": "1516911111.000700"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516911335.000506"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 3, 
+                "name": "+1", 
+                "users": [
+                    "U7BMUSDTJ", 
+                    "U7CC9DP98", 
+                    "U7G52NFN2"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516911412.000694"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1516911450.000245"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1516911531.000201"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516911920.000553"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1516913387.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516913321.000343"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516952544.000090"
+    }
+]

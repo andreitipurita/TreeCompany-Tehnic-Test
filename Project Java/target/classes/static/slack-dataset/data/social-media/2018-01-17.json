@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516188092.000320"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516188099.000035"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516189040.000465"
+    }, 
+    {
+        "username": "alessdelnero", 
+        "subtype": "file_share", 
+        "upload": false, 
+        "ts": "1516189044.000088", 
+        "display_as_bot": false, 
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516189248.000227"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516189284.000016"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516189293.000272"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516189299.000389"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516189320.000045"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516189412.000056"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516190614.000267"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516197728.000219"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516199657.000043"
+    }, 
+    {
+        "username": "alessdelnero", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1516201212.001174", 
+        "display_as_bot": false, 
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516202216.000446"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1516202912.000113"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1516209334.000100"
+    }
+]

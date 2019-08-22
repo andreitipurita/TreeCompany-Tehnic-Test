@@ -1,0 +1,18 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U90TZFQBV", 
+        "ts": "1517334120.000742"
+    }, 
+    {
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "ts": "1517349131.000189"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517349133.000197"
+    }
+]

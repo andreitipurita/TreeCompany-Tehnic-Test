@@ -1,0 +1,96 @@
+[
+    {
+        "edited": {
+            "user": "U7G52NFN2", 
+            "ts": "1517145630.000000"
+        }, 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517145582.000065"
+    }, 
+    {
+        "username": "lilla.toth", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1517157890.000005", 
+        "display_as_bot": false, 
+        "user": "U7PUGSSMR", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517157986.000039"
+    }, 
+    {
+        "username": "lilla.toth", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1517158636.000007", 
+        "display_as_bot": false, 
+        "user": "U7PUGSSMR", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517158672.000057"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517159188.000097"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517159205.000047"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517159549.000051"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517159854.000008"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517159874.000002"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517159879.000092"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517159891.000109"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517159903.000039"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517159954.000002"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517160046.000006"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517166970.000146"
+    }
+]

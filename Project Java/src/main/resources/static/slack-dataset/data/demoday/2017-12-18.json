@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513626252.000439"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513626256.000557"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1513627251.000124"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513640465.000095"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1513666334.000114"
+    }, 
+    {
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "ts": "1513666423.000208"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1513666837.000069"
+    }
+]

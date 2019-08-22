@@ -1,0 +1,36 @@
+[
+    {
+        "reactions": [
+            {
+                "count": 2, 
+                "name": "+1", 
+                "users": [
+                    "U7G52NFN2", 
+                    "U7PUGSSMR"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1510331776.000430", 
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1510331805.000000"
+        }
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1510331813.000203"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1510331844.000044"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1510341224.000035"
+    }
+]

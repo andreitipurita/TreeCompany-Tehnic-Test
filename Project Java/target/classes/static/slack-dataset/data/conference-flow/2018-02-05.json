@@ -1,0 +1,114 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859908.000131"
+    }, 
+    {
+        "subtype": "channel_purpose", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859908.000535", 
+        "purpose": "Conference Flow and Well-Being of all Participants"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7G52NFN2", 
+        "ts": "1517859908.000736"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7DET4PSP", 
+        "ts": "1517859909.000110"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7BS22HB3", 
+        "ts": "1517860051.000227"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860054.000026"
+    }, 
+    {
+        "username": "adina.renner", 
+        "subtype": "file_share", 
+        "upload": false, 
+        "ts": "1517860058.000559", 
+        "display_as_bot": false, 
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517860125.000309"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860138.000609"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860189.000410"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860364.000654"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517860549.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517860487.000406"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860609.000466"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517860670.000045"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860820.000520"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860878.000538"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517860934.000659"
+    }
+]

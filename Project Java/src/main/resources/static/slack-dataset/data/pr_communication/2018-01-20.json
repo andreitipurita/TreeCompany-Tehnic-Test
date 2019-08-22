@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516452389.000027"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1516452575.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516452404.000061"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516452409.000032"
+    }, 
+    {
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "ts": "1516452523.000098"
+    }
+]

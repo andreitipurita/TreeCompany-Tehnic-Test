@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512389451.000128"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512389456.000082"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512393773.000046"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512394094.000362"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1512394377.000111"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512394536.000581"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7D1PDTKQ", 
+        "ts": "1506970770.000544"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1506971227.000140"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1507006599.000168"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1507009530.000072"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1507013030.000116"
+    }
+]

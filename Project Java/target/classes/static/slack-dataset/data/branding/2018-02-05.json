@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517835109.000392"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517835138.000397"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517853555.000011"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "raised_hands", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517853795.000040"
+    }
+]

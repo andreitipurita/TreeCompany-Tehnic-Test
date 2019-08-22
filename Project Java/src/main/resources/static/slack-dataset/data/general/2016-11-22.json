@@ -1,0 +1,121 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U35MB0RS7", 
+        "ts": "1479822864.000002"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479823524.000003"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479823746.000004"
+    }, 
+    {
+        "edited": {
+            "user": "U35S0KGF7", 
+            "ts": "1479823817.000000"
+        }, 
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479823809.000005"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2XFGAC57", 
+        "ts": "1479823867.000007"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2XFGAC57", 
+        "ts": "1479823882.000008"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479824034.000009"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479824098.000010"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2XFGAC57", 
+        "ts": "1479824798.000011"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2XFGAC57", 
+        "ts": "1479824804.000012"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2XFGAC57", 
+        "ts": "1479824823.000013"
+    }, 
+    {
+        "username": "lakoivu", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1479824833.000014", 
+        "display_as_bot": false, 
+        "user": "U2XFGAC57", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "item": {
+            "filetype": "docx", 
+            "channels": [], 
+            "display_as_bot": false, 
+            "id": "F353WJ9U1", 
+            "size": 129620, 
+            "title": "Meeting notes 22-11-2016.docx", 
+            "url_private": "https://files.slack.com/files-pri/T2Y77DDM5-F353WJ9U1/meeting_notes_22-11-2016.docx?t=xoxe-100245455719-315843108486-314990973746-825bc3ba678beaf9085b05df1a2946ff", 
+            "ims": [], 
+            "external_type": "", 
+            "username": "", 
+            "timestamp": 1479824833, 
+            "public_url_shared": false, 
+            "editable": false, 
+            "url_private_download": "https://files.slack.com/files-pri/T2Y77DDM5-F353WJ9U1/download/meeting_notes_22-11-2016.docx?t=xoxe-100245455719-315843108486-314990973746-825bc3ba678beaf9085b05df1a2946ff", 
+            "user": "U2XFGAC57", 
+            "groups": [], 
+            "is_public": true, 
+            "pretty_type": "Word Document", 
+            "is_external": false, 
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+            "permalink_public": "https://slack-files.com/T2Y77DDM5-F353WJ9U1-f478d6ccfd", 
+            "permalink": "https://vk18.slack.com/files/U2XFGAC57/F353WJ9U1/meeting_notes_22-11-2016.docx", 
+            "name": "Meeting notes 22-11-2016.docx", 
+            "created": 1479824833, 
+            "pinned_to": [
+                "C2Y72NNSH"
+            ], 
+            "comments_count": 0, 
+            "mode": "hosted"
+        }, 
+        "ts": "1479824890.000015", 
+        "subtype": "pinned_item", 
+        "item_type": "F", 
+        "user": "U35MB0RS7", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479825456.000016"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479825596.000017"
+    }
+]

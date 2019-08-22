@@ -1,0 +1,157 @@
+[
+    {
+        "username": "lilla.toth", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1515854860.000126", 
+        "display_as_bot": false, 
+        "user": "U7PUGSSMR", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "comment": {
+            "comment": "got it! send you later :slightly_smiling_face:", 
+            "created": 1515854983, 
+            "timestamp": 1515854983, 
+            "is_intro": false, 
+            "user": "U7DET4PSP", 
+            "id": "Fc8RQJUYG0"
+        }, 
+        "subtype": "file_comment", 
+        "is_intro": false, 
+        "type": "message", 
+        "ts": "1515854983.000032"
+    }, 
+    {
+        "comment": {
+            "comment": "thank youu :slightly_smiling_face:", 
+            "created": 1515855221, 
+            "timestamp": 1515855221, 
+            "is_intro": false, 
+            "user": "U7PUGSSMR", 
+            "id": "Fc8SDWPL6Q"
+        }, 
+        "subtype": "file_comment", 
+        "is_intro": false, 
+        "type": "message", 
+        "ts": "1515855221.000051"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515855240.000098"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515855244.000047"
+    }, 
+    {
+        "username": "lilla.toth", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1515856479.000084", 
+        "display_as_bot": false, 
+        "user": "U7PUGSSMR", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "pei-yu.lin", 
+        "subtype": "file_share", 
+        "upload_reply_to": "2BF693B9-D5B7-4DC7-BF5B-6BB95845EA0F", 
+        "ts": "1515857359.000124", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1515857459.000103"
+    }, 
+    {
+        "username": "qin.yang", 
+        "subtype": "file_share", 
+        "upload_reply_to": "D5423EE5-394F-4252-913E-84A0820BB90B", 
+        "ts": "1515859998.000056", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7BMUSDTJ", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "qin.yang", 
+        "subtype": "file_share", 
+        "upload_reply_to": "B7219A52-3454-42C2-9FC1-5B434773F3F6", 
+        "ts": "1515860022.000004", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7BMUSDTJ", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "lilla.toth", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1515860159.000027", 
+        "display_as_bot": false, 
+        "user": "U7PUGSSMR", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "pei-yu.lin", 
+        "subtype": "file_share", 
+        "upload_reply_to": "06C7707C-D1ED-469A-AB86-0A31866C6C6B", 
+        "ts": "1515860322.000044", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "pei-yu.lin", 
+        "subtype": "file_share", 
+        "upload_reply_to": "0F17ADB4-04B4-4C06-802A-BF9F4E00B2D2", 
+        "ts": "1515860328.000115", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "pei-yu.lin", 
+        "subtype": "file_share", 
+        "upload_reply_to": "0F180C08-2439-495C-AD79-8A6AF0CA5D56", 
+        "ts": "1515860338.000085", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "username": "pei-yu.lin", 
+        "subtype": "file_share", 
+        "upload_reply_to": "98DD13D5-BB07-4BFA-B899-AC71426884F7", 
+        "ts": "1515860364.000121", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7DET4PSP", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1515860376.000022"
+    }
+]

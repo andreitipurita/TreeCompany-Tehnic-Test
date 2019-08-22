@@ -1,0 +1,37 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U90TZFQBV", 
+        "ts": "1517333675.000955"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517364273.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517364176.000301"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517378619.000023"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1517379121.000243"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517383801.000181"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1517385102.000228"
+    }
+]

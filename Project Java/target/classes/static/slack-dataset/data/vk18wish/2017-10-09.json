@@ -1,0 +1,140 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1507538633.000105"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1507538658.000140"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7C2YBD7D"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1507538777.000084"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507609861.000086"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614595.000066"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1507615126.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614629.000114"
+    }, 
+    {
+        "thread_ts": "1507614652.000020", 
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1507615171.000000"
+        }, 
+        "ts": "1507614652.000020", 
+        "unread_count": 1, 
+        "reply_count": 1, 
+        "user": "U7C2YBD7D", 
+        "replies": [
+            {
+                "user": "U7G52NFN2", 
+                "ts": "1507651535.000722"
+            }
+        ], 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614726.000006"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1507615137.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614762.000104"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1507615993.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614788.000081"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614816.000027"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614864.000010"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1507615154.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614874.000018"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1507615020.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507614994.000006"
+    }, 
+    {
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1507615203.000000"
+        }, 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507615025.000055"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "clap", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1507615033.000021"
+    }
+]

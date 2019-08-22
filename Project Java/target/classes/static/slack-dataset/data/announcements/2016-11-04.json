@@ -1,0 +1,50 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1478253134.000002"
+    }, 
+    {
+        "subtype": "channel_purpose", 
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1478253135.000003", 
+        "purpose": "this is for our operational purpose, making any announcements of meetings or any other points for groups attention."
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2WT4FWU8", 
+        "ts": "1478253135.000004"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2Y7DH19U", 
+        "ts": "1478253135.000005"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2Y7A9163", 
+        "ts": "1478253135.000006"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2WQZKASV", 
+        "ts": "1478253135.000007"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2XFGAC57", 
+        "ts": "1478253135.000008"
+    }
+]

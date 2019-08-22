@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513066350.000095"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513066364.000196"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1513069286.000426"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513102830.000025"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513103958.000147"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513104000.000298"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513104203.000271"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513105396.000226"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513107433.000268"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1513144831.000165"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513144991.000062"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1513145481.000034"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513145591.000098"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1513145746.000062"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518038474.000582"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518038578.000581"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518038580.000508"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518038589.000119"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518038655.000490"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518038703.000679"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1518040465.000513"
+    }, 
+    {
+        "client_msg_id": "731B7F43-5866-4E48-A1C8-0E0DA34BBBCB", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518073993.000162"
+    }, 
+    {
+        "client_msg_id": "4FB126D3-B6E1-403B-BA58-C8EBCC695E7C", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518074003.000151"
+    }, 
+    {
+        "client_msg_id": "899917C7-08F2-427C-8F60-1517698E039D", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518074177.000256"
+    }, 
+    {
+        "client_msg_id": "95E3119F-D6F4-48F4-A644-E3C6B49A931B", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1518074242.000127"
+    }
+]

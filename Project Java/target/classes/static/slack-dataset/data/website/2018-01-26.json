@@ -1,0 +1,20 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516977527.000281"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7C2YBD7D", 
+        "user": "U7PUGSSMR", 
+        "ts": "1516977527.000715"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1516978034.000424"
+    }
+]

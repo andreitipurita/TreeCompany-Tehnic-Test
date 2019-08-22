@@ -1,0 +1,74 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1478249413.000002"
+    }, 
+    {
+        "subtype": "channel_purpose", 
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1478249413.000003", 
+        "purpose": "What other info conference are doing? who are the speakers and how they do it?"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2Y7A9163", 
+        "ts": "1478249841.000004"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2WT4FWU8", 
+        "ts": "1478249841.000005"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2XFGAC57", 
+        "ts": "1478249841.000006"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2Y7DH19U", 
+        "ts": "1478249841.000007"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U2WQ03HBJ", 
+        "user": "U2WQZKASV", 
+        "ts": "1478249842.000008"
+    }, 
+    {
+        "username": "rupesh", 
+        "subtype": "file_share", 
+        "upload": false, 
+        "ts": "1478250390.000009", 
+        "display_as_bot": false, 
+        "user": "U2WQ03HBJ", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "comment": {
+            "comment": "Hey, here i have list of links for various things to build connection for the conference. you are free to edit, add new points or links.", 
+            "created": 1478250390, 
+            "timestamp": 1478250390, 
+            "is_intro": false, 
+            "user": "U2WQ03HBJ", 
+            "id": "Fc2XF2EZ4G"
+        }, 
+        "subtype": "file_comment", 
+        "is_intro": false, 
+        "type": "message", 
+        "ts": "1478250390.000010"
+    }
+]

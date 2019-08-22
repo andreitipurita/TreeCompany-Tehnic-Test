@@ -1,0 +1,14 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U35MB0RS7", 
+        "ts": "1479822864.000002"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479823524.000003"
+    }
+]

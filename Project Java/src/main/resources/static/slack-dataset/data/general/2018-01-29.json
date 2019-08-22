@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517257010.000009"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517257554.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517257303.000544"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517257365.000500"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517257585.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517257488.000851"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517257834.000529"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517257960.000509"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1517260445.000777"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517260533.000008"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517260608.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517260574.000272"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1517260664.000403"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517260738.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517260681.000522"
+    }
+]

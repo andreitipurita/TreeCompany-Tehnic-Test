@@ -1,0 +1,23 @@
+[
+    {
+        "thread_ts": "1508247517.000156", 
+        "edited": {
+            "user": "U7G52NFN2", 
+            "ts": "1508741776.000000"
+        }, 
+        "ts": "1508707265.000028", 
+        "user": "U7G52NFN2", 
+        "parent_user_id": "U7C2YBD7D", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1508741491.000219"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1508741581.000128"
+    }
+]

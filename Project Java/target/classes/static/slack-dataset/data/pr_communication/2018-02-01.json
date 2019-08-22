@@ -1,0 +1,320 @@
+[
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517476980.000140"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }, 
+            {
+                "count": 1, 
+                "name": "blush", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517478278.000604"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517488423.000366"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517488689.000562"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517488795.000522"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517488801.000134"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517488827.000368"
+    }, 
+    {
+        "username": "minna.ainoa", 
+        "subtype": "file_share", 
+        "upload_reply_to": "BF8F855E-1610-4765-A820-243FB7C135B6", 
+        "ts": "1517489289.000272", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7CC9DP98", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517491658.000057"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517491699.000207"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517491709.000469"
+    }, 
+    {
+        "client_msg_id": "6A5106F2-DF6D-4835-AC62-1D9376488838", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517491865.000374"
+    }, 
+    {
+        "client_msg_id": "492B762D-0238-4AA8-AB46-02772DC30F3E", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517491892.000256"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517492600.000417"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1517492790.000221"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517493053.000340"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1517493581.000127"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517493661.000089"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517493733.000837"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517494209.000323"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517494231.000441"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517494373.000122"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517494613.000315"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517494689.000674"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517494703.000343"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7C2YBD7D"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517494747.000439", 
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517494966.000000"
+        }
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517495646.000476"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517495810.000552"
+    }, 
+    {
+        "username": "lilla.toth", 
+        "subtype": "file_share", 
+        "upload_reply_to": "A8607CA3-5756-4F1B-974B-90C4D5F977F8", 
+        "ts": "1517500532.000485", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7PUGSSMR", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517500606.000059"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517507404.000812"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517507464.000076"
+    }, 
+    {
+        "thread_ts": "1517507620.000154", 
+        "ts": "1517507620.000154", 
+        "unread_count": 3, 
+        "reply_count": 3, 
+        "user": "U7DET4PSP", 
+        "replies": [
+            {
+                "user": "U7G52NFN2", 
+                "ts": "1517507771.000341"
+            }, 
+            {
+                "user": "U7DET4PSP", 
+                "ts": "1517507844.000064"
+            }, 
+            {
+                "user": "U7DET4PSP", 
+                "ts": "1517507874.000821"
+            }
+        ], 
+        "type": "message"
+    }, 
+    {
+        "parent_user_id": "U7DET4PSP", 
+        "thread_ts": "1517507620.000154", 
+        "type": "message", 
+        "ts": "1517507771.000341", 
+        "user": "U7G52NFN2"
+    }, 
+    {
+        "parent_user_id": "U7DET4PSP", 
+        "thread_ts": "1517507620.000154", 
+        "type": "message", 
+        "ts": "1517507844.000064", 
+        "user": "U7DET4PSP"
+    }, 
+    {
+        "parent_user_id": "U7DET4PSP", 
+        "thread_ts": "1517507620.000154", 
+        "type": "message", 
+        "ts": "1517507874.000821", 
+        "user": "U7DET4PSP"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517508854.000156"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517508987.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517508959.000314"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517509050.000417"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517509115.000614"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517514756.000159"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517521288.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517521043.000459"
+    }, 
+    {
+        "client_msg_id": "FF7141F9-16BF-49F6-A72D-BEFCA54F3B62", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517521664.000192"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7C2YBD7D"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1517552915.000154"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517553429.000138"
+    }
+]

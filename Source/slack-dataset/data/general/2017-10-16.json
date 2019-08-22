@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508137906.000052"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508139054.000103"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508139069.000080"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508158186.000149"
+    }, 
+    {
+        "thread_ts": "1508158673.000360", 
+        "reactions": [
+            {
+                "count": 2, 
+                "name": "+1", 
+                "users": [
+                    "U7G52NFN2", 
+                    "U7CC9DP98"
+                ]
+            }
+        ], 
+        "ts": "1508158673.000360", 
+        "unread_count": 1, 
+        "reply_count": 1, 
+        "user": "U7C2YBD7D", 
+        "replies": [
+            {
+                "user": "U7G52NFN2", 
+                "ts": "1508180501.000518"
+            }
+        ], 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1508158709.000600"
+    }, 
+    {
+        "parent_user_id": "U7C2YBD7D", 
+        "thread_ts": "1508158673.000360", 
+        "type": "message", 
+        "ts": "1508180501.000518", 
+        "user": "U7G52NFN2"
+    }
+]

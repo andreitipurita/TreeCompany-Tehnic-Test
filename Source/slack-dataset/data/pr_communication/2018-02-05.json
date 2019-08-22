@@ -1,0 +1,108 @@
+[
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "raised_hands", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }, 
+            {
+                "count": 1, 
+                "name": "yum", 
+                "users": [
+                    "U7BMUSDTJ"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1517837950.000560"
+    }, 
+    {
+        "user": "U7G52NFN2", 
+        "type": "message", 
+        "ts": "1517839887.000516"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517840559.000429"
+    }, 
+    {
+        "client_msg_id": "661F6D31-64CC-4DE7-8FE0-DC99FBFCAFB9", 
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "ok_hand", 
+                "users": [
+                    "U7PUGSSMR"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "ts": "1517843913.000575", 
+        "user": "U7G52NFN2"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517851516.000576"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517851627.000140"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517851749.000485"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517851766.000208"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517853507.000624"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517853680.000030"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859236.000393"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859248.000052"
+    }, 
+    {
+        "client_msg_id": "c64510ab-be25-4341-95f2-147f6bbac351", 
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1517859636.000393"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517859731.000370"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1517859853.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517859828.000456"
+    }
+]

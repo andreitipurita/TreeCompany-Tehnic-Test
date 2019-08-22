@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517573184.000354"
+    }, 
+    {
+        "type": "message", 
+        "user": "U90TZFQBV", 
+        "ts": "1517574808.000129"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517575017.000170"
+    }, 
+    {
+        "type": "message", 
+        "user": "U90TZFQBV", 
+        "ts": "1517575159.000046"
+    }, 
+    {
+        "client_msg_id": "3E2ABF32-FFED-4F8D-9D9D-E6022E53838C", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517576620.000017"
+    }
+]

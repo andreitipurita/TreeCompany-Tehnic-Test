@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U35S0KGF7", 
+        "type": "message", 
+        "ts": "1479893531.000002"
+    }, 
+    {
+        "user": "U2WQ03HBJ", 
+        "type": "message", 
+        "ts": "1479893972.000004"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1479894027.000006"
+    }, 
+    {
+        "user": "U35S0KGF7", 
+        "type": "message", 
+        "ts": "1479894398.000007"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479894557.000009"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479894640.000010"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1479894816.000011"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479894898.000012"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1479895084.000013"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479895419.000014"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479896058.000015"
+    }, 
+    {
+        "username": "jonatanhilden", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1479896094.000016", 
+        "display_as_bot": false, 
+        "user": "U35S0KGF7", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1479896170.000017"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1479896203.000018"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35S0KGF7", 
+        "ts": "1479896232.000019"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1479896286.000020"
+    }, 
+    {
+        "type": "message", 
+        "user": "U35MB0RS7", 
+        "ts": "1479896306.000021"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1479896334.000022"
+    }
+]

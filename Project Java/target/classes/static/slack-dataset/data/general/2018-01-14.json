@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1515957054.000015"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1515958350.000082"
+    }, 
+    {
+        "comment": {
+            "comment": "I'll take a look at it. I think I tried to change it but it doesn't really work or I didn't find it.", 
+            "created": 1515959700, 
+            "timestamp": 1515959700, 
+            "is_intro": false, 
+            "user": "U7C2YBD7D", 
+            "id": "Fc8S4QK8BB"
+        }, 
+        "subtype": "file_comment", 
+        "is_intro": false, 
+        "type": "message", 
+        "ts": "1515959700.000086"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1515996979.000141"
+    }
+]

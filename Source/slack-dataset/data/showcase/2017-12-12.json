@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513080404.000144"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1513081057.000226"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1513089799.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513089762.000025"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513105887.000084"
+    }
+]

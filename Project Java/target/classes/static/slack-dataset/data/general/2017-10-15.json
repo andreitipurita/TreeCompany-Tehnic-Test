@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message", 
+        "user": "U7BS22HB3", 
+        "ts": "1508061440.000028"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508096077.000034"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1508096133.000022"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508096143.000044", 
+        "edited": {
+            "user": "U7C2YBD7D", 
+            "ts": "1508096151.000000"
+        }
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1508096162.000055"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7D1PDTKQ", 
+        "ts": "1508135264.000249"
+    }
+]

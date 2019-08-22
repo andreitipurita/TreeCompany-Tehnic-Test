@@ -1,0 +1,29 @@
+[
+    {
+        "reactions": [
+            {
+                "count": 2, 
+                "name": "+1", 
+                "users": [
+                    "U7DET4PSP", 
+                    "U7G52NFN2"
+                ]
+            }, 
+            {
+                "count": 1, 
+                "name": "upside_down_face", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1516350561.000001"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1516351921.000460"
+    }
+]

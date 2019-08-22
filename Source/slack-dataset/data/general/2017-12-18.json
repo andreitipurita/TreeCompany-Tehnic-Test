@@ -1,0 +1,30 @@
+[
+    {
+        "edited": {
+            "user": "U7CC9DP98", 
+            "ts": "1513614711.000000"
+        }, 
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1513614666.000725"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513618654.000372"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7CC9DP98"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513618704.000731"
+    }
+]

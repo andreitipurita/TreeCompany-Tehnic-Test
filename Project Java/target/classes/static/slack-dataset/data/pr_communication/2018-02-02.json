@@ -1,0 +1,119 @@
+[
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517560934.000255"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517564241.000388"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517566592.000101"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517566903.000003"
+    }, 
+    {
+        "client_msg_id": "0C4F5F98-25D7-4AB9-846B-4F2EDBFB7CE6", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517567860.000468"
+    }, 
+    {
+        "client_msg_id": "AD9E61E2-61BA-4812-A9AC-76B4B187DFFD", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517567957.000095"
+    }, 
+    {
+        "client_msg_id": "283D40C5-B761-483B-8AF5-4A182452F604", 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517567988.000277"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517573438.000396"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517573487.000342"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517573554.000264"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517573569.000146"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517573574.000403"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517573653.000389"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517573656.000136"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517573989.000069"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1517573995.000409"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517574104.000153"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "ok_hand", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7PUGSSMR", 
+        "ts": "1517582018.000430"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517582797.000045"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517582860.000636"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1517582870.000193"
+    }
+]

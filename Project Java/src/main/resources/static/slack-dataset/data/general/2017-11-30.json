@@ -1,0 +1,71 @@
+[
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7G52NFN2"
+                ]
+            }, 
+            {
+                "count": 1, 
+                "name": "ok_hand", 
+                "users": [
+                    "U7PUGSSMR"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512052061.000551"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512052643.000055"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512052653.000304"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1512052719.000181"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1512053234.000416"
+    }, 
+    {
+        "parent_user_id": "U7CC9DP98", 
+        "thread_ts": "1511851449.000093", 
+        "type": "message", 
+        "ts": "1512061719.000298", 
+        "user": "U35MB0RS7"
+    }, 
+    {
+        "parent_user_id": "U7CC9DP98", 
+        "thread_ts": "1511851449.000093", 
+        "type": "message", 
+        "ts": "1512061728.000444", 
+        "user": "U35MB0RS7"
+    }, 
+    {
+        "parent_user_id": "U7CC9DP98", 
+        "thread_ts": "1511851449.000093", 
+        "type": "message", 
+        "ts": "1512061795.000664", 
+        "user": "U35MB0RS7"
+    }, 
+    {
+        "parent_user_id": "U7CC9DP98", 
+        "thread_ts": "1511851449.000093", 
+        "type": "message", 
+        "ts": "1512070954.000422", 
+        "user": "U7CC9DP98"
+    }
+]

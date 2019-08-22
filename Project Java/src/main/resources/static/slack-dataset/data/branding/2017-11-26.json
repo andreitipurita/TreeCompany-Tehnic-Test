@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1511711267.000039"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1511712570.000032"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1511718511.000037"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "+1", 
+                "users": [
+                    "U7C2YBD7D"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1511733318.000047"
+    }, 
+    {
+        "username": "rupesh", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1511733651.000041", 
+        "display_as_bot": false, 
+        "user": "U2WQ03HBJ", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1511734082.000037"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1511760450.000075"
+    }, 
+    {
+        "username": "adina.renner", 
+        "subtype": "file_share", 
+        "upload": true, 
+        "ts": "1511761013.000133", 
+        "display_as_bot": false, 
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "bot_id": null
+    }
+]

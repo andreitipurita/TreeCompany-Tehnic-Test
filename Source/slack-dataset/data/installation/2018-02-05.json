@@ -1,0 +1,27 @@
+[
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1517851722.000082"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7G52NFN2", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1517851743.000138"
+    }, 
+    {
+        "subtype": "channel_join", 
+        "type": "message", 
+        "inviter": "U7G52NFN2", 
+        "user": "U9439D7V2", 
+        "ts": "1517857809.000670"
+    }, 
+    {
+        "type": "message", 
+        "user": "U9439D7V2", 
+        "ts": "1517863526.000123"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513413816.000067"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1513414289.000005"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1513433927.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513433639.000034"
+    }, 
+    {
+        "edited": {
+            "user": "U7DET4PSP", 
+            "ts": "1513434139.000000"
+        }, 
+        "type": "message", 
+        "user": "U7DET4PSP", 
+        "ts": "1513433867.000006"
+    }, 
+    {
+        "edited": {
+            "user": "U7G52NFN2", 
+            "ts": "1513438474.000000"
+        }, 
+        "type": "message", 
+        "user": "U7G52NFN2", 
+        "ts": "1513438396.000096"
+    }, 
+    {
+        "reactions": [
+            {
+                "count": 1, 
+                "name": "heart", 
+                "users": [
+                    "U7DET4PSP"
+                ]
+            }
+        ], 
+        "type": "message", 
+        "user": "U7BMUSDTJ", 
+        "ts": "1513441436.000140"
+    }
+]

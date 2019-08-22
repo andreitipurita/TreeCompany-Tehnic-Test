@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message", 
+        "user": "U7CC9DP98", 
+        "ts": "1511788307.000174"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1511804761.000636"
+    }, 
+    {
+        "type": "message", 
+        "user": "U7C2YBD7D", 
+        "ts": "1511804773.000322"
+    }, 
+    {
+        "username": "adina.renner", 
+        "subtype": "file_share", 
+        "upload_reply_to": "7CBC5CB1-7FE5-4091-9CFA-3744E17BA0F9", 
+        "ts": "1511851241.000074", 
+        "display_as_bot": false, 
+        "upload": true, 
+        "user": "U7C2YBD7D", 
+        "type": "message", 
+        "bot_id": null
+    }, 
+    {
+        "thread_ts": "1511851449.000093", 
+        "ts": "1511851449.000093", 
+        "unread_count": 6, 
+        "reply_count": 6, 
+        "user": "U7CC9DP98", 
+        "replies": [
+            {
+                "user": "U7C2YBD7D", 
+                "ts": "1511854288.000183"
+            }, 
+            {
+                "user": "U7CC9DP98", 
+                "ts": "1511891347.000207"
+            }, 
+            {
+                "user": "U35MB0RS7", 
+                "ts": "1512061719.000298"
+            }, 
+            {
+                "user": "U35MB0RS7", 
+                "ts": "1512061728.000444"
+            }, 
+            {
+                "user": "U35MB0RS7", 
+                "ts": "1512061795.000664"
+            }, 
+            {
+                "user": "U7CC9DP98", 
+                "ts": "1512070954.000422"
+            }
+        ], 
+        "type": "message"
+    }, 
+    {
+        "parent_user_id": "U7CC9DP98", 
+        "thread_ts": "1511851449.000093", 
+        "type": "message", 
+        "ts": "1511854288.000183", 
+        "user": "U7C2YBD7D"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1511854549.000324"
+    }, 
+    {
+        "type": "message", 
+        "user": "U2WQ03HBJ", 
+        "ts": "1511854716.000136"
+    }
+]
